@@ -1,13 +1,13 @@
-# 📊 Data Analytics Portfolio — OBA
+# 📊 Data Analytics Portfolio
 
 A collection of end-to-end data analytics projects spanning **SQL**, **Python**, **Power BI**, and **data storytelling**. Each project demonstrates real-world problem-solving using structured datasets and business-relevant questions.
 
 ---
 
-## 🗂️ Projects Overview
+## Projects Overview
 
-### 1. 🛒 E-Commerce Sales Database (SQL)
-**File:** `Final_project_OBA.sql`
+### 1. E-Commerce Sales Database (SQL)
+**File:** `E commerce Sales Database`
 
 A fully structured relational database built in MySQL to simulate a small Nigerian e-commerce business.
 
@@ -27,8 +27,8 @@ A fully structured relational database built in MySQL to simulate a small Nigeri
 
 ---
 
-### 2. 🏠 Nigerian House Price Analysis (Python)
-**File:** `PYTHON_PROJECT__OBA_.ipynb`
+### 2.  Nigerian House Price Analysis (Python)
+**File:** `Nigeria House Prices Analysis.ipynb`
 
 An exploratory data analysis of Nigerian real estate data to uncover pricing patterns, affordability metrics, and market segmentation.
 
@@ -43,7 +43,7 @@ An exploratory data analysis of Nigerian real estate data to uncover pricing pat
 ---
 
 ### 3. 📱 Customer Retention Report (Power BI)
-**File:** `Power_Bi_project__Oba__PDF.pdf`
+**File:** `Customer Retention Report`
 
 An interactive Power BI dashboard analyzing customer churn for a telecom provider across 7,043 customers.
 
@@ -69,7 +69,7 @@ An interactive Power BI dashboard analyzing customer churn for a telecom provide
 ---
 
 ### 4. 🏪 Superstore Analytics Dashboard (Power BI)
-**File:** `Superstore_Visuals_Oba.pdf`
+**File:** `Superstore Analytics Dashboard.pdf`
 
 A performance dashboard for a US retail superstore tracking sales, profit, and returns across product categories and states.
 
@@ -101,10 +101,10 @@ A performance dashboard for a US retail superstore tracking sales, profit, and r
 
 ---
 
-## 📌 About
+## About
 
-These projects were completed as part of a data analytics learning journey, with a focus on practical, business-driven questions and clean, interpretable outputs. Each project reflects the full analytics workflow — from raw data to actionable insight.
+These projects were completed  with a focus on practical, business-driven questions and clean, interpretable outputs. Each project reflects the full analytics workflow — from raw data to actionable insight.
 
 ---
 
-> 💡 *Feel free to explore each project folder, and reach out with any questions or feedback!*
+>  *Feel free to explore each project folder, and reach out with any questions or feedback!*
