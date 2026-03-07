@@ -1,0 +1,41 @@
+# Healthcare Analytics Dashboard (Excel)
+
+## Overview
+- Built an interactive Excel dashboard to analyze simulated healthcare patient data.
+- The dashboard enables dynamic exploration of patient visits, malaria positivity rates, anemia prevalence, and hemoglobin distribution using slicers and pivot charts.
+
+## Dataset
+- Simulated clinical dataset containing 300 patient records.
+- Variables include patient demographics, visit dates, ward admissions, malaria test results, and hemoglobin levels.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data visualization
+
+## Key Metrics
+- Total patient visits
+- Malaria positivity rate
+- Anemia prevalence
+- Average hemoglobin level
+
+## Visualizations
+- Visits by ward (column chart)
+- Malaria positivity by age group (stacked column chart)
+- Monthly patient visit trends (line chart)
+- Hemoglobin distribution (histogram)
+
+## Dashboard Preview
+- Interactive dashboard with slicers for filtering by sex, ward, and malaria status.
+
+## Insights
+- Malaria positivity appeared higher among younger patients in the dataset.
+- Some wards recorded higher patient visit volumes than others.
+- Hemoglobin distribution suggests a moderate prevalence of anemia.
+
+## Future Improvements
+- Rebuild the dashboard using Power BI for more advanced interactivity.
+- Automate data cleaning using Python or Power Query.
+- Integrate SQL-based data sources for scalable healthcare analytics.
